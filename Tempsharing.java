@@ -1,1 +1,91 @@
-gr_user_id=63bd06da-9439-4569-ad8d-08d283f39fa9; 87b5a3c3f1a55520_gr_last_sent_cs1=ChandraSekhar_Chinthala; INGRESSCOOKIE=6027e768635f1b7fdcf8cec1a52d50bb|8e0876c7c1464cc0ac96bc2edceabd27; _gid=GA1.2.99472734.1735105932; _gat=1; ip_check=(false, "124.123.180.190"); 87b5a3c3f1a55520_gr_session_id=6bb277bb-9390-4adf-b544-5eb55e097931; 87b5a3c3f1a55520_gr_last_sent_sid_with_cs1=6bb277bb-9390-4adf-b544-5eb55e097931; 87b5a3c3f1a55520_gr_session_id_sent_vst=6bb277bb-9390-4adf-b544-5eb55e097931; cf_clearance=9hD5k9nVCRswzHWbSmFWIG_DZgSfee5qV6nC3fL8Mg0-1735105933-1.2.1.1-jIZm2Bmv2MvzZ4mlE.oqpzsPEtDezVp.fTEBiqFoSEVi_ZHiYx8iCNd7b3VDCBWtOtPk01Ag6FQA643CgHoY48VxFiWf2h2_VvCW11d00O2PDoxyNsKPp9JavcxGUEdstNVZOBOiX7pJgTKDA26nCuZ8igU6sEsaLGbVgzHltqyeetBhB.TqyBHIRPayVKS7rTnFSYD7SJzwN4eYp7UlsL53PSxKLiwrczMuA7xApZvMKBFR8O4RGsV6HJw_Av2Gp5Apr4bvgoOuzi8YkXUVRg43dx.0yswuVVRSVuW_vwLu2kWuBNhRMVotTUW97JXzE7Nc4jBCqkix4sw0ayV6aDqolSOv3UtxZ0Tfp5AkT2Cd15VQ5Un5O4sU5e0S25Oqrkcuwt_9BPrRBOcxwS9VP3d1nUxfWjBxo2MaXkCQ5v86LEo0Bnz5iZp_2NRAcHfv; csrftoken=gkbLCBYAc2Jzqpe81Fkey133j38r6VbCM7mEY03FmDIwop9MxoTLKf5aFB6FIYrI; messages=.eJyLjlaKj88qzs-Lz00tLk5MT1XSMdAxMtVRCi5NTgaKpJXm5FQqFGem56WmKGTmKSQWKzhnJOallMY7Z2TmlWQk5iTqKcXq0NaUyPxShYzEslSYCfmlJRRYWpQYnJqdkVhEFR_Q3rBYACuhkgI:1tQKJi:ehk-sCSAk2AMwWt1lvjVfc0GjdLxTil4rkn73sKmtQI; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMTIxMjI0MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJlMWE5NDAzYzdiMzgwMWY0NDhjYzdjMmI3ZTE4NTRiYjZmZjljNzlmZmEzZDAxMjdhNTNlOGVkNGI5NDgzMjNmIiwic2Vzc2lvbl91dWlkIjoiOGRmNjA1MDUiLCJpZCI6MTIxMjI0MjUsImVtYWlsIjoiY2hhbmR1cnIxOEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6IkNoYW5kcmFTZWtoYXJfQ2hpbnRoYWxhIiwidXNlcl9zbHVnIjoiQ2hhbmRyYVNla2hhcl9DaGludGhhbGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvQ2hhbmR1X0NoaW50aGFsYS9hdmF0YXJfMTczMTk5NTU2MS5wbmciLCJyZWZyZXNoZWRfYXQiOjE3MzUxMDU5NDIsImlwIjoiMTI0LjEyMy4xODAuMTkwIiwiaWRlbnRpdHkiOiJmNTFiYjQ4MmM2NjBkMGVlYWRkMWYwNTgwNThhMmIzNSIsImRldmljZV93aXRoX2lwIjpbIjk5YjJhNTFlMzcwMWQ0MzliMGY2ZTVlY2NjNmIyNjdlIiwiMTI0LjEyMy4xODAuMTkwIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.uYFq_xNU3QQk1BM5sk8gRORXCL3Y7wEy6cfNauu4KMM; 87b5a3c3f1a55520_gr_cs1=ChandraSekhar_Chinthala; __gads=ID=5c38beabf9e314ca:T=1731991098:RT=1735105949:S=ALNI_MafOf_pPx3ysQ2Mi6GjnQK-9WlqZg; __gpi=UID=00000f8b30abd40a:T=1731991098:RT=1735105949:S=ALNI_MZqViC7JOzHasxoSw9CN23DEHyTjA; __eoi=ID=dd66c37660886118:T=1731991098:RT=1735105949:S=AA-AfjYu2lEgOhtF8QQ4Mwq7WXvw; FCNEC=%5B%5B%22AKsRol9gQg_w1lWgXXx2zP8Fsjlk7q5B8xFpKQgjjn9CRO7ww-uZETZrEPDiGPuvdCOBOmQrq8gxT4noA6N1r8iEkip2X4caOJmW0VKoCzJVKOraIH7pwxpZwaNF9Jr7m4GYSae04S2BC4G__xcxt90ypTnDlAkQNw%3D%3D%22%5D%5D; _dd_s=rum=0&expire=1735106845637; _ga=GA1.1.1123627662.1731991047; _ga_CDRWKZTDEX=GS1.1.1735105932.10.1.1735105964.28.0.0
+import React, { createContext, useState, ReactNode, useCallback } from 'react';
+import { STRINGS } from '../constant/strings';
+
+interface reactivationDetailsProps {
+  isEnable : boolean;
+  title :string;
+  subTitle : string;
+  buttonTitle : string
+}
+
+interface OffersStatusNavViewHeightContextProps {
+  viewHeight: number;
+  setViewHeight: (height: number) => void;
+  showSegmentControl: boolean;
+  setShowSegmentControl: (loader: boolean) => void;
+
+  reactivationDetails : reactivationDetailsProps;
+  setReactivationDetails : (val : {
+  isEnable : boolean;
+  title :string;
+  subTitle : string;
+  buttonTitle : string;}) => void;
+
+
+  showReactivationErrorPopUp : boolean;
+  setShowReactivationErrorPopUp : (isEnable: boolean) => void;
+  reactivationTitle : string;
+  setReactivationTitle : (title: string) => void;
+  reactivationSubTitle : string;
+  setReactivationSubTitle : (title: string) => void;
+  reactivationButtonTitle : string;
+  setReactivationButtonTitle : (title: string) => void;
+}
+
+
+
+export const OffersStatusNavViewHeightContext =
+  createContext<OffersStatusNavViewHeightContextProps>({
+    viewHeight: 0,
+    setViewHeight: () => {},
+    showSegmentControl:true,
+    setShowSegmentControl: () => {},
+
+    reactivationDetails :{isEnable : false, title :STRINGS.str_reactivationRequired, subTitle : STRINGS.str_reactivateMessage, buttonTitle : STRINGS.str_reactivate},
+    setReactivationDetails :()=>{},
+
+    showReactivationErrorPopUp:false,
+    setShowReactivationErrorPopUp :() =>{},
+    reactivationTitle:STRINGS.str_reactivationRequired,
+    setReactivationTitle :() =>{},
+    reactivationSubTitle:STRINGS.str_reactivateMessage,
+    setReactivationSubTitle :() =>{},
+    reactivationButtonTitle:STRINGS.str_reactivate,
+    setReactivationButtonTitle :() =>{},
+  });
+
+export const OffersStatusNavViewHeightProvider: React.FC<{
+  children: ReactNode;
+}> = ({ children }) => {
+  const [viewHeight, setViewHeight] = useState(0);
+  const [showSegmentControl, setShowSegmentControl] = useState<any>(true);
+  const [showReactivationErrorPopUp, setShowReactivationErrorPopUp] = useState<boolean>(false);
+  const [reactivationTitle, setReactivationTitle] = useState<string>('');
+  const [reactivationSubTitle, setReactivationSubTitle] = useState<string>('');
+  const [reactivationButtonTitle, setReactivationButtonTitle] = useState<string>('');
+
+  const [reactivationDetails, setReactivationDetails] = useState({isEnable: false, title :STRINGS.str_reactivationRequired, subTitle : STRINGS.str_reactivateMessage, buttonTitle : STRINGS.str_reactivate});
+  return (
+    <OffersStatusNavViewHeightContext.Provider
+      value={{
+        viewHeight,
+        setViewHeight,
+        showSegmentControl,
+        setShowSegmentControl,
+
+        reactivationDetails,
+        setReactivationDetails,
+
+        showReactivationErrorPopUp,
+        setShowReactivationErrorPopUp,
+        reactivationTitle,
+        reactivationSubTitle,
+        reactivationButtonTitle,
+        setReactivationTitle,
+        setReactivationSubTitle,
+        setReactivationButtonTitle
+      }}>
+      {children}
+    </OffersStatusNavViewHeightContext.Provider>
+  );
+};
