@@ -14,71 +14,71 @@ class Node{
 }
 class MyLinkedList {
     private Node head;
-    private int len = 0;
+    private int len;
     public MyLinkedList() {
-        
+        head = null;
+        this.len = 0;
     }
     
     public int get(int index) {
-        if(index > this.len) return -1;
-        int ind = 0;
+        if(index < 0 && index >= this.len) return -1;
         Node temp = head;
-        while(ind != index){
-            ind++;
+        for(int i = 0;i<index;i++){
             temp = temp.next;
         }
-        if(temp.next == null) return -1;
-        return temp.next.data;
+        return temp.data;
     }
     
     public void addAtHead(int val) {
-        if(head == null){
-            head = new Node(val);
-            return;
-        }
         Node newHead = new Node(val, head);
         head = newHead;
         this.len++;
     }
     
     public void addAtTail(int val) {
+        if(head == null){
+            addAtHead(val);
+            return;
+        }
         Node temp = head;
         while(temp.next != null){
             temp = temp.next;
         }
-        Node newNode = new Node(val);
-        temp.next = newNode;
+        temp.next = new Node(val);
         this.len++;
     }
     
     public void addAtIndex(int index, int val) {
-        if(index > this.len) return;
-        int ind = 0;
+        if(index < 0 || index > this.len) return;
+        if(index == 0){
+            addAtHead(val);
+            return;
+        }
+        if(index == this.len){
+            addAtTail(val);
+            return;
+        }
         Node temp = head;
-        while(ind != index){
-            ind++;
+        for(int i =0;i<index-1;i++){
             temp = temp.next;
         }
-        Node newNode = new Node(val);
-        Node nextNode = temp.next;
+        Node newNode = new Node(val, temp.next);
         temp.next = newNode;
-        newNode.next = nextNode;
-
         this.len++;
     }
     
     public void deleteAtIndex(int index) {
-        if(index > this.len) return;
-        int ind = 0;
+        if(index < 0 || index >= this.len) return;
+        if(index == 0){
+            head = head.next;
+            this.len--;
+            return;
+        }
         Node temp = head;
-        while(ind != index){
-            ind++;
+        for(int i = 0;i<index - 1;i++){
             temp = temp.next;
         }
-        Node nextNode = temp.next.next;
-        temp.next = nextNode;
-        nextNode = null;
-
+        temp.next = temp.next.next;
         this.len--;
     }
 }
