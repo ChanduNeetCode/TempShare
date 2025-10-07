@@ -1,24 +1,25 @@
-// User function Template for Java
-
 class Solution {
-    public void helper(int i, int k, int[] arr, int n, List<List<Integer>> res, List<Integer> carry){
-        if(k == 0){
-            res.add(new ArrayList<>(carry));
+    public void helper(int num,int sum,List<Integer> carry ,List<List<Integer>> res , int k, int n){
+        if(sum > n) return;
+        if(carry.size() == k){
+            if(sum == n){
+                res.add(new ArrayList<>(carry));
+            }
             return;
         }
 
-        for(int j = i;j < n;j++){
-            if(j > i && arr[j] == arr[j-1]) continue;
-            if(arr[j] > k) break;
+        //take
+        carry.add(num);
+        helper(num + 1, sum + num, carry, res, k, n);
+        carry.remove(carry.size() - 1);
 
-            carry.add(arr[j]);
-            helper(j + 1 ,k - arr[j], arr, n, res,carry);
-            carry.remove(carry.size() - 1);
-        }
+        
+        helper(num + 1, sum, carry, res, k, n);
     }
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> res = new ArrayList<>();
-        helper(0 ,target, candidates, candidates.length, res, new ArrayList<Integer>());
+        List<Integer> carry = new ArrayList<>();
+        helper(1, 0, carry, res, k, n);
         return res;
     }
 }
