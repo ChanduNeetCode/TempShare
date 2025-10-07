@@ -1,16 +1,24 @@
 // User function Template for Java
 
 class Solution {
-    public static boolean helper(int i, int sum, int[] arr, int n, int k, boolean[] dp){
-        if(sum == k) return dp[i] = true;
-        if(i == n) return false;
-        
-        return dp[i] = helper(i +1, sum + arr[i], arr, n, k,dp) || helper(i + 1,sum, arr, n, k, dp);
+    public void helper(int i, int k, int[] arr, int n, List<List<Integer>> res, List<Integer> carry){
+        if(k == 0){
+            res.add(new ArrayList<>(carry));
+            return;
+        }
+
+        for(int j = i;j < n;j++){
+            if(j > i && arr[j] == arr[j-1]) continue;
+            if(arr[j] > k) break;
+
+            carry.add(arr[j]);
+            helper(j + 1 ,k - arr[j], arr, n, res,carry);
+            carry.remove(carry.size() - 1);
+        }
     }
-    public static boolean checkSubsequenceSum(int N, int[] arr, int K) {
-        // code here
-        boolean[] dp = new boolean[N + 1];
-        helper(0 ,0 ,arr, N, K, dp);
-        return dp[N];
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        List<List<Integer>> res = new ArrayList<>();
+        helper(0 ,target, candidates, candidates.length, res, new ArrayList<Integer>());
+        return res;
     }
 }
