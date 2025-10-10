@@ -37,19 +37,17 @@ class MinHeap {
     }
     public void downHeap(int i){
         int min = i;
-        while(min >= 0){
-            int l = left(min);
-            int r = right(min);
-            if(l < size && arr[l] < arr[min]){
-                min = l;
-            }
-            if(r < size && arr[r] < arr[min]){
-                min =  r;
-            }
+        int l = left (i);
+        int r = right(i);
+        if(l < size && arr[l] < arr[i]){
+            min = l;
         }
-        
+        if(r < size && arr[r] < arr[i]){
+            min = r;
+        }
         if(min != i){
             swap(i, min);
+            downHeap(min);
         }
     }
     
@@ -61,12 +59,16 @@ class MinHeap {
     }
     
     public void deleteKey(int i){
-        if(size-1 < 0){
-            size = 0;
-            return;
-        }
+        if(i < 0 || i >= size) return;
         swap(i, size - 1);
         size--;
-        upHeap(i);
+        if(i < size){
+            if(i > 0 && arr[i] < arr[parent(i)]){
+                upHeap(i);
+            }
+            else{
+                downHeap(i);
+            }
+        }
     }
 }
