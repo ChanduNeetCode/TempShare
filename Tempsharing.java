@@ -30,7 +30,7 @@ class MinHeap {
     
     public void upHeap(int i){
         int index = i;
-        while(i >= 0 && arr[parent(i)] > arr[i]){
+        while(i > 0 && arr[parent(i)] > arr[i]){
             swap(i, parent(i));
             i = parent(i);
         }
