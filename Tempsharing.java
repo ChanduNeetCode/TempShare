@@ -14,15 +14,18 @@ class MinHeap {
     int right (int i) { return 2 * i + 2; }
     
     public int extractMin(){
+        if(size < 1) return -1;
         int min = arr[0];
-        deleteKey(0);
+        arr[0] = arr[size - 1];
+        size--;
+        downHeap(0);
         return min;
     }
     
     public void swap(int i, int j){
-        int temp = arr[j];
-        arr[j] = arr[i];
-        arr[i] = temp;
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
     
     public void upHeap(int i){
@@ -32,8 +35,26 @@ class MinHeap {
             i = parent(i);
         }
     }
+    public void downHeap(int i){
+        int min = i;
+        while(min >= 0){
+            int l = left(min);
+            int r = right(min);
+            if(l < size && arr[l] < arr[min]){
+                min = l;
+            }
+            if(r < size && arr[r] < arr[min]){
+                min =  r;
+            }
+        }
+        
+        if(min != i){
+            swap(i, min);
+        }
+    }
     
     public void insertKey(int k){
+        if(size == cap) return;
         arr[size] = k;
         upHeap(size);
         size++;
