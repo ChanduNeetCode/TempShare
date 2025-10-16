@@ -1,0 +1,18 @@
+export const STRINGS = {
+  str_ticketView: 'Ticket View',
+  str_kycUpdateText: 'KYC UPDATE',
+  str_panDetails: 'PAN DETAILS',
+  str_panNumber: ' AQHPA7161K',
+  str_personalDetails: 'PERSONAL DETAILS',
+  str_personName: 'A Anusha, 17/09/1986',
+  str_personalPhone: '9022463816, andavarapu.anusha@gmail.com',
+  str_addressDetails: 'ADDRESS DETAILS',
+  str_addressStreet: ' Flat no. 56, Sunshine avenue, green valley',
+  str_addressCity: 'Indiranagar, Bangalore - 560010, Karnataka',
+  str_payingText: 'Paying',
+  str_rupee: '₹',
+  str_rupeeText: '2,000',
+  str_gpayText: 'To Google Pay',
+  str_date: 'on date',
+  str_dateText: '31st August 2023',
+};

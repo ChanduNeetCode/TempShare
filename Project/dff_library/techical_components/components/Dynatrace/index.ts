@@ -1,0 +1,2 @@
+import { dynatraceScreenNameEvent, dynatraceErrorLogEvent, dynatraceNPCILogEvent, dynatraceButtonClickEvent, dynatraceEnterActionEvent, dynatraceModifyActionEvent, dynatraceDrawerEvent } from './IMDynatrace';
+export { dynatraceScreenNameEvent, dynatraceErrorLogEvent, dynatraceNPCILogEvent, dynatraceButtonClickEvent, dynatraceEnterActionEvent, dynatraceModifyActionEvent, dynatraceDrawerEvent };

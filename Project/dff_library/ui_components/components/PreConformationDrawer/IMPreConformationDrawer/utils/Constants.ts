@@ -1,0 +1,16 @@
+export const STRINGS = {
+  str_badgeTitle:'Default send.',
+  str_buttontitle:'Swipe to pay',
+  str_buttonType:'tall',
+  str_date:'12 Feb, 2021',
+  str_default_message: 'This will transfer money from your account to Abhishek Nair’s account',
+  str_on_date_Tex:'On date',
+  str_payeeName:'From Girish Padmanabhan •••• 5234',
+  str_payingAmountThirdText:"₹5 +taxes will apply",
+  str_payingText: 'Paying',
+  str_receiverbankName:'Axis Bank •••• 3524',
+  str_receiverName:'To Abhishek Nair',
+  str_rupee: '₹',
+  str_rupeeText: '2,309',
+  str_title: 'Confirm Schedule Payment',
+};

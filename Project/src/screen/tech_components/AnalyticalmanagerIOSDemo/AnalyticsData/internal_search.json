@@ -1,0 +1,71 @@
+{
+    "_icicibank": {
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "searchInfo": {
+            "numberOfSearchResults": "9",
+            "searchCriteria": "search",
+            "searchKeyword": "search",
+            "searchResultRank": "search",
+            "searchResultTitle": "search",
+            "filters": "search",
+            "filterSearchEvent":0
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "journey"
+          },
+          "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        
+          },
+        "userInfo": {
+            "accountType": "na",
+            "age": "30",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        }
+    },
+        "web": {
+            "webInteraction": {
+                "name": "cta",
+                "type": "other",
+                "linkClicks": {
+                    "value": 1
+                }
+            }
+        },
+    "eventType": "web.webinteraction.linkClicks"
+}

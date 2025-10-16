@@ -1,0 +1,88 @@
+{
+    "_icicibank": {
+        "fileTranser": {
+            "fileDownload": {
+                "fileName": "na",
+                "fileFormat": "na",
+                "multiSelectDownloadEvent": "na"
+            }
+        },
+        "ctaInfo": {
+            "ctaName": "na",
+            "ctaRegion": "na",
+            "ctaType": "na",
+            "ctaURL": "na"
+        },
+        "productInfo": {
+            "productCategory": "na",
+            "productName": "na",
+            "productSubCategory": "na"
+        },
+        "interactionInfo": {
+            "eventName": "filedownload",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "searchInfo": {
+            "numberOfSearchResults": "na",
+            "searchCriteria": "na",
+            "searchKeyword": "na",
+            "searchResultRank": "na",
+            "searchResultTitle": "na",
+            "filters": "na",
+            "filterSearchEvent":0
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "na"
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "0",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": ""
+        }
+    },
+    "web": {
+        "webInteraction": {
+            "name": "filedownload",
+            "type": "download",
+            "linkClicks": {
+                "value": 1
+            }
+        } 
+},
+    "eventType": "web.webinteraction.linkClicks"
+}

@@ -1,0 +1,97 @@
+
+{
+    "_icicibank": {
+        "ctaInfo": {
+            "ctaName": "na",
+            "ctaRegion": "na",
+            "ctaType": "na",
+            "ctaUrl": "na"
+        },
+        "formInfo": {
+            "formFields": "na",
+            "formName": "na",
+            "formStepName": "na",
+            "formType": "na",
+            "formSubmitFailureReason": "na",
+            "lastAccessedField": "na",
+            "emiAmount": "na",
+            "monthlyEmi": "na",
+            "emiTenure": "na"
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "pageLoadTime": 0,
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "journey"
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "0",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        },
+        "errorInfo": {
+            "errorDetail": "na",
+            "errorType": "na",
+            "errorString": "na"
+        },
+        "alertInfo": {
+            "alertsWarningsDisclaimers": "na"
+        },
+        "offersViewed":{
+            "offers":"na",
+            "hasOffers":0
+        },
+        "productInfo": {
+        "productCategory": "na",
+        "productName": "na",
+        "productSubCategory": "na"
+    }
+},
+"web": {
+    "webPageDetails": {
+      "name": "other",
+      "isErrorPage": false,
+      "pageViews": {
+        "value": 1
+      }
+    }
+  },
+    "eventType": "web.webinteraction.linkClicks"
+}
+

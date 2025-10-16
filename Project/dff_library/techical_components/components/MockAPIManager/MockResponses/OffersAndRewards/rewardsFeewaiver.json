@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "errors": [
+      {
+        "errCd": "0000",
+        "errMsg": "SUCCESS"
+      }
+    ]
+  },
+  "body": {
+    "currentYrSpends": "",
+    "minSpends": "",
+    "feeWaiverPercnt": ""
+  },
+  "head": {
+    "trcID": "583929213-20230214165514-100",
+    "statusCd": 100,
+    "responseDtTm": "2024-07-03 10:22:12.158"
+  }
+}

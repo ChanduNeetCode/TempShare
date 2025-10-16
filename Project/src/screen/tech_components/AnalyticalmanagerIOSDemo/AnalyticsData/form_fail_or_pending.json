@@ -1,0 +1,110 @@
+{
+    "_icicibank": {
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "formInfo": {
+            "formName": "na",
+            "formStepName": "na",
+            "formType": "na",
+            "formFields": "na",
+            "formSubmitFailureReason": "na",
+            "lastAccessedField":"na",
+            "emiAmount":"na",
+            "monthlyEmi":"na",
+            "emiTenure":"na"
+    
+        },
+        
+        "transactionInfo": {
+            "amountEntered": 0.0,
+            "descriptionSelect": "na",
+            "ifscCode": "na",
+            "payeeBank": "na",
+            "payerBank": "na",
+            "paymentSelection": "na",
+            "paymentType": "na",
+            "receiveOTP": "na",
+            "transferType": "na",
+            "applicationReferenceNumber": "na",
+            "applicationStatus": "na"
+        },
+        "productInfo": {
+            "productName": "na",
+            "productCategory": "na",
+            "productSubCategory": "na"
+        },
+        "channelInfo": {
+            "name": "na",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "journey"
+          },
+          "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        
+          },
+          "searchInfo": {
+            "numberOfSearchResults": "na",
+            "searchCriteria": "na",
+            "searchKeyword": "na",
+            "searchResultRank": "na",
+            "searchResultTitle": "na",
+            "filters": "na",
+            "filterSearchEvent":0
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "30",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        }
+    },
+    "web": {
+        "webPageDetails": {
+            "isErrorPage": false,
+            "name": "other",
+            "pageViews": {
+                "value": 1
+            }
+        },
+        "webInteraction": {
+            "name": "interactionInfo.eventName",
+            "type": "other",
+            "linkClicks": {
+                "value": 1
+            }
+        }
+},
+    "eventType": "web.webpagedetails.pageViews"
+
+}

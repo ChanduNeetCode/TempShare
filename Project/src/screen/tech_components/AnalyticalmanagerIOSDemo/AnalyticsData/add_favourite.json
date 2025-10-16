@@ -1,0 +1,68 @@
+{
+    "_icicibank": {
+        "ctaInfo": {
+            "ctaName": "na",
+            "ctaRegion": "na",
+            "ctaType": "na",
+            "ctaURL": "na"
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "30",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "na"
+          },
+          "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        
+          }
+        },
+    "web": {
+        "webInteraction": {
+            "name": "addFavouritePayee",
+            "type": "other",
+            "linkClicks": {
+                "value": 1
+            }
+        }
+    },
+    "eventType": "web.webinteraction.linkClicks"
+}
