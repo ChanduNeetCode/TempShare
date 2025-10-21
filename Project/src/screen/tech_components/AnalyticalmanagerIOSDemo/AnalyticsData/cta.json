@@ -1,0 +1,108 @@
+{
+    "_icicibank": {
+        "ctaInfo": {
+            "ctaName": "na",
+            "ctaRegion": "na",
+            "ctaType": "na",
+            "ctaURL": "na"
+        },
+        "formInfo": {
+            "formName": "na",
+            "formStepName": "na",
+            "formType": "na",
+            "formFields": "na",
+            "formSubmitFailureReason": "na",
+            "lastAccessedField":"na",
+            "emiAmount":"na",
+            "monthlyEmi":"na",
+            "emiTenure":"na"
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "0",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "na"
+        },
+        "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        },
+        "searchInfo": {
+            "numberOfSearchResults": "na",
+            "searchCriteria": "na",
+            "searchKeyword": "na",
+            "searchResultRank": "na",
+            "searchResultTitle": "na",
+            "filters": "na",
+            "filterSearchEvent":0
+        },
+        "offersClicked" :{
+            "offers":"IP_GET_INSTANT_LOAN:PL|NONE:PL@IP_GET_INSTANT_LOAN:CC|NONE:CC@IP_GET_INSTANT_LOAN:HL|NONE:HL@IP_GET_INSTANT_LOAN:AL|NONE:AL@IP_GET_INSTANT_LOAN:CD|PA:EMI@IP_GET_INSTANT_LOAN:EMI|UPI:EMI@IP_GET_INSTANT_LOAN:LAMF|PA:LAMF@IP_GET_INSTANT_LOAN:HL|OD:HLOD@IP_GET_INSTANT_LOAN:LAS|PA:LAS@IP_GET_INSTANT_LOAN:CC|CLI:CC@IP_GET_INSTANT_LOAN:SALOD|PA:SALOD@IP_GET_INSTANT_LOAN:PLCC|OTL:PLCC@IP_GET_INSTANT_LOAN:PLCC|WTL:PLCC@IP_GET_INSTANT_LOAN:LAP|NONE:LAP@IP_GET_INSTANT_LOAN:PAYLATER|NONE:Pay Later@IP_GET_INSTANT_LOAN:TW|NONE:TWL@IP_GET_INSTANT_LOAN:HL|24H_TOPUP:HL TOPUP@IP_GET_INSTANT_LOAN:AL|TOPUP:AL@IP_GET_INSTANT_LOAN:CCU|365:CC@IP_GET_INSTANT_LOAN:CPL|NONE:CPL@IP_GET_INSTANT_LOAN:EL|NONE:EL@IP_GET_INSTANT_LOAN:HL|BT:HLBT@IP_GET_INSTANT_LOAN:HL|INSTA_TOPUP:HL TOPUP",
+            "hasOffers":0,
+            "offerID" : "na"
+        },
+        "offerInfo": {
+            "offerID": "na",
+            "offerDetails": "na",
+            "offerUrl": "na",
+            "offerCategory": "na",
+            "offerClicks": 0,
+            "offerViews": "0",
+            "offerRegion": "na",
+            "brandName": "na",
+            "offerValidityPeriod": "na",
+            "offerAvailableOn": "na",
+            "handpickedOffersClicks": "0",
+            "nearbyOffersClicks": "",
+            "popularOffersClicks": "na",
+            "personalizedOfferClicks": 0
+        }
+    },
+        "web": {
+            "webInteraction": {
+                "name": "cta",
+                "type": "other",
+                "linkClicks": {
+                    "value": 1
+                }
+            }
+        },
+    "eventType": "web.webinteraction.linkClicks"
+}

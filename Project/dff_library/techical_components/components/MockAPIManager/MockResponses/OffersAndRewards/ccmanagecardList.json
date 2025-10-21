@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "errors": [
+      {
+        "errCd": "0000",
+        "errMsg": "SUCCESS"
+      }
+    ]
+  },
+  "body": {
+    "ccList": [
+      {
+        "ccNo": "5186860040003008",
+        "ccHldrNm": "RUPESH P L"
+      },
+      {
+        "ccNo": "4200490020004001",
+        "ccHldrNm": "SINGH",
+        "ccImgNm": "Visa-Business Advantage Black",
+        "cardNm": "Business Advantage Black"
+      },
+      {
+        "ccNo": "4085110000083003",
+        "ccHldrNm": "ADEPU BHAVYA",
+        "ccImgNm": "Visa",
+        "cardNm": "Mine Credit Card (Visa)"
+      },
+      {
+        "ccNo": "4085110000085008",
+        "ccHldrNm": "ADEPU BHAVYA",
+        "ccImgNm": "Visa",
+        "cardNm": "Mine Credit Card (Visa)"
+      },
+      {
+        "ccNo": "4085110000086006",
+        "ccHldrNm": "ADEPU BHAVYA",
+        "ccImgNm": "Visa",
+        "cardNm": "Mine Credit Card (Visa)"
+      },
+      {
+        "ccNo": "5524180000309001",
+        "ccHldrNm": "MOHAMMAD AHSAAN ANSARI",
+        "ccImgNm": "Master-Diamant",
+        "cardNm": "Diamant Credit Card"
+      },
+      {
+        "ccNo": "4375518406293001",
+        "ccHldrNm": "A R ARUN KUMAR SHARMA",
+        "ccImgNm": "Visa-Platinum-MakeMyTrip",
+        "cardNm": "MakeMyTrip Platinum"
+      },
+      {
+        "ccNo": "374741038942006",
+        "ccHldrNm": "A KALEESWARAN",
+        "ccImgNm": "Amex-Sapphiro",
+        "cardNm": "Sapphiro AMEX"
+      },
+      {
+        "ccNo": "5241931575148006",
+        "ccHldrNm": "ABDUL HASAN",
+        "ccImgNm": "Master-Platinum Chip-Unare ",
+        "cardNm": "Unare MasterCard Platinum Chip Transit"
+      },
+      {
+        "ccNo": "5241933821410008",
+        "ccHldrNm": "HARSHITHA A",
+        "ccImgNm": "Master-Platinum",
+        "cardNm": "Platinum Credit Card"
+      }
+    ]
+  },
+  "head": {
+    "trcID": "user1-20230214165514-1",
+    "statusCd": 100,
+    "responseDtTm": "2024-05-16 06:51:51.302"
+  }
+}

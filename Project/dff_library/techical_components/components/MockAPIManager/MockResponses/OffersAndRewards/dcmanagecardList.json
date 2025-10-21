@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "errors": [
+      {
+        "errCd": "0000",
+        "errMsg": "SUCCESS"
+      }
+    ]
+  },
+  "body": {
+    "debitcardList": [
+      {
+        "dcNo": "4689580081315005",
+        "dcStatus": "Open",
+        "dcExpDt": "2025-08-31 00:00:00.000",
+        "dcHoldNm": "TAURAV ONE    ICI",
+        "acctId": "102701002889",
+        "dcNm": "Chip NRI Platinum Debit Card",
+        "dcValidFrm": "2023-09-13 00:00:00.000"
+      },
+      {
+        "dcNo": "4393591027000038",
+        "dcStatus": "Open",
+        "dcExpDt": "2030-08-31 00:00:00.000",
+        "dcHoldNm": "RAHUL",
+        "acctId": "102701002889",
+        "dcNm": "Gold Family Paywave  Debit Card",
+        "dcValidFrm": "2023-09-12 00:00:00.000"
+      },
+      {
+        "dcNo": "4722541027001876",
+        "dcStatus": "Open",
+        "dcExpDt": "2026-09-30 00:00:00.000",
+        "dcHoldNm": "CHARAN",
+        "acctId": "102701003389",
+        "dcNm": "Chip VISA Silver Paywave Debit Card",
+        "dcValidFrm": "2023-10-19 00:00:00.000"
+      },
+      {
+        "dcNo": "4689491027000018",
+        "dcStatus": "Open",
+        "dcExpDt": "2025-09-30 00:00:00.000",
+        "dcHoldNm": "DHANU MADAV",
+        "acctId": "102701003389",
+        "dcValidFrm": "2023-10-19 00:00:00.000"
+      },
+      {
+        "dcNo": "5331120001001721",
+        "dcStatus": "Open",
+        "dcExpDt": "2029-01-31 00:00:00.000",
+        "dcHoldNm": "ABHISHEK BANGERA",
+        "acctId": "102701003389",
+        "dcNm": "ICICI WORLD MASTER CHIP CARDS",
+        "dcValidFrm": "2024-02-12 00:00:00.000"
+      }
+    ]
+  },
+  "head": {
+    "trcID": "user1-20230214165514-1",
+    "statusCd": 100,
+    "responseDtTm": "2024-05-16 12:34:59.233"
+  }
+}

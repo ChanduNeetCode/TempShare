@@ -1,0 +1,100 @@
+{
+    "_icicibank": {
+        "offerInfo": {
+            "offerID": "na",
+            "offerDetails": "na",
+            "offerUrl": "na",
+            "offerCategory": "na",
+            "offerClicks": 0,
+            "offerViews": "0",
+            "offerRegion": "na",
+            "brandName": "na",
+            "offerValidityPeriod": "na",
+            "offerAvailableOn": "na",
+            "handpickedOffersClicks": "0",
+            "nearbyOffersClicks": "",
+            "popularOffersClicks": "na",
+            "personalizedOfferClicks": 0
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "0",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        },
+        "transactionInfo": {
+            "amountEntered": 0,
+            "descriptionSelect": "na",
+            "ifscCode": "na",
+            "noOfPayments": 0,
+            "payeeBank": "na",
+            "payerBank": "na",
+            "paymentSelection": "na",
+            "paymentType": "na",
+            "receiveOtp": "na",
+            "transferType": "na",
+            "accountBalance": 0,
+            "applicationReferenceNumber": "na",
+            "applicationStatus": "na",
+            "upiSelectionType": "na",
+            "paymentFrequency": "na",
+            "transactionReferenceNumber": "na",
+            "transactionStatus": "na",
+            "receiveOtpOption": "na",
+            "currency":"na",
+           "referralCode":"na",
+           "bankName":"na"
+        },
+        "productInfo": {
+            "productCategory": "na",
+            "productName": "na",
+            "productSubCategory": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "na"
+        },
+        "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        }
+    },
+    "web": {
+        "webInteraction": {
+            "name": "offerclick",
+            "type": "other",
+            "linkClicks": {
+                "value": 1
+            }
+        }
+    },
+    "eventType": "web.webinteraction.linkClicks"
+}

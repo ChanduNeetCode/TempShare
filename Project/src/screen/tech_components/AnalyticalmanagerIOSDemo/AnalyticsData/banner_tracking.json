@@ -1,0 +1,72 @@
+{
+    "_icicibank": {
+        "bannerInfo": {
+            "bannerCategory": "na",
+            "bannerName": "na",
+            "bannerURL": "na",
+            "internalCampaignParameters": "na"
+        },
+        "campaignInfo": {
+            "internalCampaignParameters": "na"
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "journey"
+          },
+          "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        
+          },
+          "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime":0
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "0",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        }
+    },
+        "web": {
+            "webInteraction": {
+                "name": "bannerClick",
+                "type": "other",
+                "linkClicks": {
+                    "value": 1
+                }
+            }
+        },
+
+    "eventType": "web.webinteraction.linkClicks" 
+}

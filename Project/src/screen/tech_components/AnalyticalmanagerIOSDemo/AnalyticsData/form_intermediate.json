@@ -1,0 +1,105 @@
+{
+    "_icicibank": {
+        "formInfo": {
+            "formFields": "na",
+            "formName": "na",
+            "formStepName": "na",
+            "formType": "na",
+            "emiAmount": "na",
+            "monthlyEmi": "na",
+            "emiTenure": "na",
+            "creditLimit": "na",
+            "recommendationFlag": "na",
+            "referralCode": "na",
+            "ifscCode": "na",
+            "formSubmitFailureReason": "na",
+            "lastAccessedField": "na"
+        },
+        "Identities": {
+            "fedID": "na"
+        },
+        "interactionInfo": {
+            "eventName": "na",
+            "timeParting": "na",
+            "unixTimestamp": "na"
+        },
+        "channelInfo": {
+            "name": "imobile",
+            "version": "na"
+        },
+        "pageInfo": {
+            "journey": "na",
+            "language": "en-in",
+            "pageName": "na",
+            "pageType": "na",
+            "pageUrl": "na",
+            "previousPageName": "na",
+            "subJourney": "na",
+            "subSubJourney": "na",
+            "virtualPageView": "na",
+            "journeyInitiator": "na",
+            "pageLoadTime": 0
+        },
+        "productInfo": {
+            "productCategory": "na",
+            "productName": "na",
+            "productSubCategory": "na"
+        },
+        "transactionInfo": {
+            "amountEntered": 0,
+            "descriptionSelect": "na",
+            "ifscCode": "na",
+            "noOfPayments": 0,
+            "payeeBank": "icici",
+            "payerBank": "icici",
+            "paymentSelection": "na",
+            "paymentType": "bank transfer",
+            "receiveOtp": "na",
+            "transferType": "bank transfer",
+            "accountBalance": 0,
+            "applicationReferenceNumber": "na",
+            "applicationStatus": "na",
+            "upiSelectionType": "na",
+            "paymentFrequency": "na",
+            "transactionReferenceNumber": "na",
+            "transactionStatus": "na",
+            "receiveOtpOption": "bank",
+            "currency": "na",
+            "referralCode": "na",
+            "bankName": "na"
+        },
+        "userInfo": {
+            "accountType": "na",
+            "age": "30",
+            "gender": "na",
+            "loginType": "na",
+            "loginStatus": "na",
+            "newReturnVisitor": "na",
+            "noOfNROAccounts": 0,
+            "userSegment": "na",
+            "userType": "na",
+            "profileHolding": "na"
+        },
+        "journeyInitiatorCommonData": {
+            "journeyInitiator": "journey"
+        },
+        "PageNames": {
+            "primaryCategory": "na",
+            "subCategory": "na",
+            "subSubCategory": "na",
+            "formName": "na",
+            "screenName": "na"
+        
+          }
+    },
+    "web": {
+        "webInteraction": {
+            "name": "formIntermediateStep",
+            "type": "other",
+            "linkClicks": {
+                "value": 1
+            }
+        }
+    },
+    "eventType": "web.webinteraction.linkClicks"
+}

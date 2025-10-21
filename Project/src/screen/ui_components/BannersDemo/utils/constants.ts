@@ -1,0 +1,21 @@
+export const STRINGS = {
+  str_shortCarousel: 'Short Carousel',
+  str_tallCarousel: 'Tall Carousel',
+  str_portrait: 'Portrait',
+  str_square: 'Square',
+  str_tall_full_width_carousel: 'Tall Full Width',
+  str_tall_story_style: 'Tall Story ',
+  str_title: 'Banners',
+  str_message: 'Mobile Number Is All You Need To Send Money',
+  str_button_title: 'Send Money',
+  str_loan_approval: 'You have a pre-approved offer on a car loan for ₹10L',
+  str_zero: 'ZERO',
+  str_joining_fees: 'JOINING FEES',
+  str_icici_card: 'Get an ICICI Credit Card',
+  str_open_account_message: 'Open a new ICICI',
+  str_loan_account: 'Loan Account',
+  str_no_documentation_needed: 'No documentation needed!',
+  str_pre_approved_loan: 'YOU ARE PRE-APPROVED',
+  str_car_loan: 'FOR A CAR LOAN',
+  str_send_now:'Send Now'
+};
